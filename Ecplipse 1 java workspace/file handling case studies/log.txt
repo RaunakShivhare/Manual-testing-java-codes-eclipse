@@ -1,0 +1,2 @@
+User logged in at 10:00 AM
+User performed transaction ID: 12345
